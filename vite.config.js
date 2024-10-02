@@ -8,9 +8,9 @@ export default defineConfig({
     port:3000   // frontend port number
   },
 
-  eslint:{
-    ignoreDuringBuilds:true
-  }
+  build: {
+    outDir: 'dist', // This is the default value
+  },
   
 })
 
