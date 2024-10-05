@@ -3,9 +3,9 @@
 ## deployed  : backend on #render and frontend on #netlify.
 
  ## Tech-stack used: MERN stack-
- frontend-: reactjs , tailwindcss , daisyui, react-icons, toastify 
- backend: nodejs , expressjs, and socket.io for real time communication
- database: mongoDB
+### frontend-: reactjs , tailwindcss , daisyui, react-icons, toastify .
+### backend: nodejs , expressjs, and socket.io for real time communication
+### database: mongoDB
  
 ## features: features are
 1- signup with fullname, username, password, confirm password ,gender
