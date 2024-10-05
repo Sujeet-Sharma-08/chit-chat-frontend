@@ -1,8 +1,28 @@
-# React + Vite
+# Chit Chat App (chatting app)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# deployed  : backend on #render and frontend on #netlify.
 
-Currently, two official plugins are available:
+# Tech-stack used: MERN stack-
+# frontend-: reactjs , tailwindcss , daisyui, react-icons, toastify 
+# backend: nodejs , expressjs, and socket.io for real time communication
+# database: mongoDB
+# features: features are
+1- signup with fullname, username, password, confirm password ,gender
+2- login with username, and password,
+in login we have implemented token based authentication
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3- logout
+4- after logging user can send message to anyone who is logged in , in this app
+5-when two user logged in then it shows when user is currently active(online) and it enables to sending message to online users as well all users who is logged in .
+6- for real time chat we have implemented socket.io in our backend(socket.io backend configuration) and in frontend(socket.io frontend configuration)
+
+# live link 🔗 -: https://lnkd.in/gDbexP57
+
+# GitHub repo-: of  backend-: https://lnkd.in/gB3cSTw8
+
+Note- if you want to see this complete feature ->5-when two user logged in then it shows when user is currently active(online) and it enables to sending message to online users as well all users who is logged in .
+then , you have to open it into other other browser. if you want to logged in , in same browser it doesn't work due to token issues.
+
+
+
+
