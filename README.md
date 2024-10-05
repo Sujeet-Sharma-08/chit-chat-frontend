@@ -1,4 +1,4 @@
-# Chit Chat App (chatting app)
+# Chit Chat App (chatting app) (Full Stack)
 
  deployed  : backend on #render and frontend on #netlify.
 
@@ -10,7 +10,7 @@
 # features: features are
 1- signup with fullname, username, password, confirm password ,gender
 2- login with username, and password,
-in login we have implemented token based authentication
+in login we have implemented token based secure authentication 
 
 3- logout
 4- after logging user can send message to anyone who is logged in , in this app
